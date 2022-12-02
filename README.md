@@ -1,5 +1,8 @@
 ﻿# facial-pain-detection
 
+![image](https://user-images.githubusercontent.com/88105870/205351374-5389ed59-2360-4547-829d-eaec5cd69441.png)
+
+
 ⦁	Dataset: The data used in this project is UNBC-McMaster shoulder pain expression which consists of nearly 48000 thousand frames extracted from videos of patient’s facial expression during treatment, it’s labeled from 0 to 10 as a pain scale.
 
 ⦁	Data preparation process: The dataset consists of
