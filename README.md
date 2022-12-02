@@ -39,16 +39,18 @@
 
 ⦁	Model structural 
 
+![image](https://user-images.githubusercontent.com/88105870/205352032-a42d021e-9921-4d36-9272-47406f662cc2.png)
 
-              
 
 ⦁	Training
  
-
+![image](https://user-images.githubusercontent.com/88105870/205351801-5f53e8f3-71b3-41c4-b7d7-6a9b1623e4b1.png)
 
 
 ⦁	Model loss and accuracy 
-           
+
+![image](https://user-images.githubusercontent.com/88105870/205351912-4ba12cdc-88ae-42c8-9b94-82a8b446c685.png)
+        
 
 ⦁	How to run it:-
 -open your visual code, open the project folder and inside your terminal write (pip install -r requirements.txt) to install the required library to run the project.
