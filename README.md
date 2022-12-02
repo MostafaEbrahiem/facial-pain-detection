@@ -70,6 +70,8 @@
 -run the UI.py file.
 
 ⦁	NOTES: to obtain good accuracy the uploaded images and the captured images must be in excellent quality, otherwise the results will be inaccurate and to capture an image press the ‘’q’’ button.
+Download the trained model (training_data.pkl) from this drive link :
+https://drive.google.com/drive/folders/1uf2DUIDNINM1kMXnLx3GrXw40o04n3Pb?usp=share_link
 
 
 
